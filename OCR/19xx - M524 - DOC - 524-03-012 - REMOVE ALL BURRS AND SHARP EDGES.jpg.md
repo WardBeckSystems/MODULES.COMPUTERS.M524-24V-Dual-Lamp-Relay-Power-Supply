@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 42 in 35 lines: 500 DIA _ · NOTES: · 040 ALUM; ALLOY · MATERIAL · 2) TOLERANCES XXX 005 · 700 · 3) REMOVE ALL BURRS AND SHARP EDGES · 385 · FINISH · CLEAR ALODINE · Ioo DIA, CSK 828 · To .150 DIA:
 - **Title block:** (279, 6)–(432, 74) mm: 4/84 '700 WAS . 750 · ISSUE DATE · REVISION · APP · WBS · WARD-BECK sysTEMs · DRN: · TR; /84 · ENG_ TR: · M524 · CKD: · SwITCH MTG. BRKT; · APP · SCALE · ISSUE · 2X · 524-03-012
 
-Every curve, box, word and wire group: [19xx - M524 - DOC - 524-03-012 - REMOVE ALL BURRS AND SHARP EDGES (traced).json](../MECHANICAL/19xx%20-%20M524%20-%20DOC%20-%20524-03-012%20-%20REMOVE%20ALL%20BURRS%20AND%20SHARP%20EDGES%20(traced).json) (the CAD file: `19xx - M524 - DOC - 524-03-012 - REMOVE ALL BURRS AND SHARP EDGES (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M524 - DOC - 524-03-012 - REMOVE ALL BURRS AND SHARP EDGES (traced).json](../MECHANICAL/19xx%20-%20M524%20-%20DOC%20-%20524-03-012%20-%20REMOVE%20ALL%20BURRS%20AND%20SHARP%20EDGES%20%28traced%29.json) (the CAD file: `19xx - M524 - DOC - 524-03-012 - REMOVE ALL BURRS AND SHARP EDGES (traced).dxf`).
 
 ## Full text
 

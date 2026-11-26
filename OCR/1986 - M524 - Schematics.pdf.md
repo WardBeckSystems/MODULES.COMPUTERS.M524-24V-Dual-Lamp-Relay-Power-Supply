@@ -21,7 +21,7 @@ Wiki page: [M524](../../../../PAGES/M524.md)
 - **Closed boxes:** 6; named: 44147090 PRcGraMMER Logic
 - **Words (OCR):** 9 in 8 lines: 44147090 · PRcGraMMER Logic · WES WARD-BECX SYSTEMS · M524 · PROGRAMMER MODULE · SCHEMATIC · B524-02-00 1 · ISS.
 
-Every curve, box, word and wire group: [1986 - M524 - Schematics p1 (traced).json](../SCHEMATICS/1986%20-%20M524%20-%20Schematics%20p1%20(traced).json) (the CAD file: `1986 - M524 - Schematics p1 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M524 - Schematics p1 (traced).json](../SCHEMATICS/1986%20-%20M524%20-%20Schematics%20p1%20%28traced%29.json) (the CAD file: `1986 - M524 - Schematics p1 (traced).dxf`).
 
 ### Page 2
 
@@ -34,7 +34,7 @@ Every curve, box, word and wire group: [1986 - M524 - Schematics p1 (traced).jso
 - **Words (OCR):** 18 in 15 lines: GRoup SELECT · GRP · CHs GRP · GROUP · GRouP · PRE SET · CHARNEL · WBS WARD-BECX SYSTEMS · M524 · PROGRAMMER · MODULE · FRONT PANEL
 - **Title block:** (336, 34)–(427, 49) mm: WBS WARD-BECX SYSTEMS
 
-Every curve, box, word and wire group: [1986 - M524 - Schematics p2 (traced).json](../SCHEMATICS/1986%20-%20M524%20-%20Schematics%20p2%20(traced).json) (the CAD file: `1986 - M524 - Schematics p2 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M524 - Schematics p2 (traced).json](../SCHEMATICS/1986%20-%20M524%20-%20Schematics%20p2%20%28traced%29.json) (the CAD file: `1986 - M524 - Schematics p2 (traced).dxf`).
 
 ### Page 3
 
@@ -46,7 +46,7 @@ Every curve, box, word and wire group: [1986 - M524 - Schematics p2 (traced).jso
 - **Words (OCR):** 9 in 8 lines: FD · Lybul · WBS WARD-BECK SYSTEMS · SA14-090 · PROGRAMMER LoGIc · SCHEMATIC · B14-090-02-00 1 · ISS
 - **Title block:** (338, 32)–(427, 48) mm: WBS WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1986 - M524 - Schematics p3 (traced).json](../SCHEMATICS/1986%20-%20M524%20-%20Schematics%20p3%20(traced).json) (the CAD file: `1986 - M524 - Schematics p3 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M524 - Schematics p3 (traced).json](../SCHEMATICS/1986%20-%20M524%20-%20Schematics%20p3%20%28traced%29.json) (the CAD file: `1986 - M524 - Schematics p3 (traced).dxf`).
 
 ### Page 4
 
@@ -58,7 +58,7 @@ Every curve, box, word and wire group: [1986 - M524 - Schematics p3 (traced).jso
 - **Words (OCR):** 42 in 41 lines: KEYPAD · 14-290 · 37 · CID · ISSUE · DISPLAY · TH4140 · R455 · 47n0 · l0f2 · 10/2 · 7736
 - **Title block:** (256, 29)–(432, 192) mm: 14-290 · 37 · CID · ISSUE · DISPLAY · l0f2 · Btcr = · Vco · 10/25 · 0 1/100 · je| · [0/25 · WBS WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1986 - M524 - Schematics p4 (traced).json](../SCHEMATICS/1986%20-%20M524%20-%20Schematics%20p4%20(traced).json) (the CAD file: `1986 - M524 - Schematics p4 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M524 - Schematics p4 (traced).json](../SCHEMATICS/1986%20-%20M524%20-%20Schematics%20p4%20%28traced%29.json) (the CAD file: `1986 - M524 - Schematics p4 (traced).dxf`).
 
 ### Page 5
 
@@ -73,7 +73,7 @@ Every curve, box, word and wire group: [1986 - M524 - Schematics p4 (traced).jso
 - **Title block:** (338, 34)–(428, 50) mm: WBS WAAD-BECK SYSTEMS
 - **Wiring (first pass):** 136 connected wire groups from 1,571 runs; labelled ends: 134 mm → 10is, 21725; 130 mm → iaico, 835, C.ino; 123 mm → 10is, 21725, C.ino; 64 mm → 835, iaico; 61 mm → C.ino
 
-Every curve, box, word and wire group: [1986 - M524 - Schematics p5 (traced).json](../SCHEMATICS/1986%20-%20M524%20-%20Schematics%20p5%20(traced).json) (the CAD file: `1986 - M524 - Schematics p5 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M524 - Schematics p5 (traced).json](../SCHEMATICS/1986%20-%20M524%20-%20Schematics%20p5%20%28traced%29.json) (the CAD file: `1986 - M524 - Schematics p5 (traced).dxf`).
 
 ### Page 6
 
@@ -85,7 +85,7 @@ Every curve, box, word and wire group: [1986 - M524 - Schematics p5 (traced).jso
 - **Words (OCR):** 33 in 31 lines: 14-391 · data/AddResS · ISSUE · JKeY TALLIES · CR5D 56 · 78 64/0 · 4/o · ALARM · Crz · ~R54 · CKZE · LASIT
 - **Title block:** (83, 28)–(432, 189) mm: 14-391 · data/AddResS · ISSUE · JKeY TALLIES · CR5D 56 · 78 64/0 · 4/o · ALARM · Crz · ~R54 · CKZE · 10zs · 74C9ii · 74C9I1 · LRIO · 0 V102 · 1/10 · SC-- DA · Led DISPLAY DRIvE · 215974 · 245904 · 215
 
-Every curve, box, word and wire group: [1986 - M524 - Schematics p6 (traced).json](../SCHEMATICS/1986%20-%20M524%20-%20Schematics%20p6%20(traced).json) (the CAD file: `1986 - M524 - Schematics p6 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M524 - Schematics p6 (traced).json](../SCHEMATICS/1986%20-%20M524%20-%20Schematics%20p6%20%28traced%29.json) (the CAD file: `1986 - M524 - Schematics p6 (traced).dxf`).
 
 ### Page 7
 
@@ -97,7 +97,7 @@ Every curve, box, word and wire group: [1986 - M524 - Schematics p6 (traced).jso
 - **Words (OCR):** 13 in 12 lines: uI-i · VI-23 · pitPly · Gap_4 · VI-19 · V-7 · WBS WARD-BECK SYSTEMS · SA14-093 · KEY PAD DISPLAY ASSEMBLY · SCHEMATIC · B14-093-02-001 · ISS
 - **Title block:** (337, 31)–(427, 47) mm: WBS WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1986 - M524 - Schematics p7 (traced).json](../SCHEMATICS/1986%20-%20M524%20-%20Schematics%20p7%20(traced).json) (the CAD file: `1986 - M524 - Schematics p7 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M524 - Schematics p7 (traced).json](../SCHEMATICS/1986%20-%20M524%20-%20Schematics%20p7%20%28traced%29.json) (the CAD file: `1986 - M524 - Schematics p7 (traced).dxf`).
 
 ### Page 8
 
@@ -110,7 +110,7 @@ Every curve, box, word and wire group: [1986 - M524 - Schematics p7 (traced).jso
 - **Words (OCR):** 8 in 6 lines: WBS WARD-BECK SYSTEMS · SA14-093 · KEY PAD DISPLAY ASSEMBLY · COMPONENT LAYoUt · B14-093-06-001 · ISS.
 - **Title block:** (343, 31)–(432, 46) mm: WBS WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1986 - M524 - Schematics p8 (traced).json](../SCHEMATICS/1986%20-%20M524%20-%20Schematics%20p8%20(traced).json) (the CAD file: `1986 - M524 - Schematics p8 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M524 - Schematics p8 (traced).json](../SCHEMATICS/1986%20-%20M524%20-%20Schematics%20p8%20%28traced%29.json) (the CAD file: `1986 - M524 - Schematics p8 (traced).dxf`).
 
 ## Full text
 
