@@ -1,0 +1,64 @@
+{
+ "drawing": "Modules/COMPUTERS/M524/SCHEMATICS/1986 - M524 - Schematics.pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/93fee59c31f662f7-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1295],
+  "mm": [431.8, 279.6],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "8"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [54.4, 11.6, 430.5, 251.7],
+ "outlines": {
+  "line": {"rings": 1848, "straight": {"n": 16659, "mm": 29581.4}, "curved": {"n": 2531, "mm": 2777.8}},
+  "text": {"rings": 112, "straight": {"n": 657, "mm": 733.0}, "curved": {"n": 195, "mm": 264.4}},
+  "tb": {"rings": 3, "straight": {"n": 50, "mm": 104.5}, "curved": {"n": 2, "mm": 3.4}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [95.0, 238.1, 102.8, 244.0], "w": 7.8, "h": 5.8, "from": "ring"},
+  {"mm": [99.1, 230.8, 102.6, 234.3], "w": 3.5, "h": 3.5, "from": "ring"},
+  {"mm": [189.8, 217.4, 197.1, 225.6], "w": 7.3, "h": 8.2, "from": "ring"},
+  {"mm": [122.4, 199.3, 134.7, 208.2], "w": 12.3, "h": 8.9, "from": "ring"},
+  {"mm": [168.2, 193.7, 175.3, 204.9], "w": 7.1, "h": 11.3, "from": "ring"},
+  {"mm": [191.2, 189.8, 194.5, 193.2], "w": 3.3, "h": 3.5, "from": "ring"},
+  {"mm": [224.8, 146.4, 229.7, 157.2], "w": 5.0, "h": 10.8, "from": "ring"},
+  {"mm": [206.6, 129.8, 220.2, 132.3], "w": 13.6, "h": 2.6, "from": "ring"},
+  {"mm": [206.8, 124.6, 220.2, 126.9], "w": 13.4, "h": 2.4, "from": "ring"},
+  {"mm": [119.8, 93.7, 135.4, 100.0], "w": 15.5, "h": 6.3, "from": "ring"},
+  {"mm": [149.0, 91.8, 169.5, 97.6], "w": 20.5, "h": 5.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 9,
+  "lines": [
+   {"mm": [86.4, 160.4, 96.7, 167.4], "text": "FD"},
+   {"mm": [87.2, 123.3, 99.1, 128.1], "text": "Lybul"},
+   {"mm": [346.3, 38.0, 418.6, 42.3], "text": "WBS WARD-BECK SYSTEMS"},
+   {"mm": [371.1, 28.9, 392.7, 33.2], "text": "SA14-090"},
+   {"mm": [358.6, 23.5, 405.7, 28.8], "text": "PROGRAMMER LoGIc"},
+   {"mm": [369.4, 18.1, 395.3, 22.9], "text": "SCHEMATIC"},
+   {"mm": [343.5, 10.6, 381.9, 14.9], "text": "B14-090-02-00 1"},
+   {"mm": [406.8, 11.0, 414.7, 15.3], "text": "ISS"}
+  ]
+ },
+ "title_block": {"mm": [337.6, 32.5, 427.2, 47.9], "from": "title-block words (training set)", "text": ["WBS WARD-BECK SYSTEMS"]},
+ "dots": [{"c": [340.0, 235.6], "r": 0.5, "lines": 0}, {"c": [195.3, 55.3], "r": 0.5, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 432 × 280 mm, 2000 × 1295 px traced (0.216 mm/px)",
+  "- **Ink extent:** 54–430 mm across, 12–252 mm up",
+  "- **Outlines:** line 1,848 rings, 16,659 straight (29,581 mm) / 2,531 curved (2,778 mm); text 112 rings, 657 straight (733 mm) / 195 curved (264 mm); tb 3 rings, 50 straight (104 mm) / 2 curved (3.4 mm)",
+  "- **Closed boxes:** 11",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 9 in 8 lines: FD · Lybul · WBS WARD-BECK SYSTEMS · SA14-090 · PROGRAMMER LoGIc · SCHEMATIC · B14-090-02-00 1 · ISS",
+  "- **Title block:** (338, 32)–(427, 48) mm: WBS WARD-BECK SYSTEMS"
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "drawing": "Modules/COMPUTERS/M524/MECHANICAL/1984 - 524-03-005 - UPPER DISPLAY SCREEN - DRN TR - ENG TR - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/831448f294dfaa3a.svg",
+ "sheet": {
+  "number": "B 524-03-005",
+  "title": "M524 / UPPER DISPLAY SCREEN",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 10.6, 431.3, 298.2],
+ "outlines": {
+  "line": {"rings": 87, "straight": {"n": 2052, "mm": 7008.6}, "curved": {"n": 214, "mm": 324.0}},
+  "text": {"rings": 292, "straight": {"n": 2480, "mm": 2975.9}, "curved": {"n": 748, "mm": 1151.3}},
+  "tb": {"rings": 7, "straight": {"n": 114, "mm": 215.9}, "curved": {"n": 9, "mm": 13.5}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 394, "straight": {"n": 432, "mm": 2774.3}, "curved": {"n": 6, "mm": 12.8}},
+   "text": {"paths": 2169, "straight": {"n": 2843, "mm": 2192.1}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 256, "straight": {"n": 279, "mm": 938.4}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 45,
+  "orientation": {"horizontal": {"n": 834, "mm": 2885.2}, "vertical": {"n": 884, "mm": 1417.6}, "diagonal": {"n": 1836, "mm": 1602.0}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [317.8, 208.3], "r": 4.0, "kind": "arc", "span": 97, "from": ["centre line"], "start": 61},
+  {"c": [318.1, 203.0], "r": 4.0, "kind": "arc", "span": 90, "from": ["centre line"], "start": 43}
+ ],
+ "boxes": [
+  {"mm": [106.9, 161.7, 227.3, 219.1], "w": 120.4, "h": 57.4, "from": "ring"},
+  {"mm": [346.1, 62.0, 411.5, 67.8], "w": 65.4, "h": 5.9, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [319.3, 62.0, 332.1, 67.8], "w": 12.7, "h": 5.8, "from": "ring", "in_title_block": true},
+  {"mm": [332.9, 62.0, 345.2, 67.8], "w": 12.3, "h": 5.8, "from": "ring", "in_title_block": true},
+  {"mm": [412.2, 62.0, 424.7, 67.8], "w": 12.5, "h": 5.8, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [286.3, 43.6, 424.7, 61.0], "w": 138.4, "h": 17.4, "from": "ring", "words": ["WBS", "WAAD-BECK SYSTEMS"], "in_title_block": true},
+  {"mm": [286.3, 36.9, 318.7, 42.7], "w": 32.4, "h": 5.8, "from": "ring", "words": ["Tr", "1/84", "DRN:"], "in_title_block": true},
+  {"mm": [319.3, 17.1, 424.8, 42.7], "w": 105.5, "h": 25.7, "from": "ring", "words": ["M524", "UPPER DISPLAY SCREEN"], "in_title_block": true},
+  {"mm": [286.3, 30.2, 318.7, 36.3], "w": 32.4, "h": 6.0, "from": "ring", "words": ["ENG", "TR"], "in_title_block": true},
+  {"mm": [286.3, 23.7, 318.7, 29.6], "w": 32.4, "h": 5.8, "from": "ring", "words": ["CKD:"], "in_title_block": true},
+  {"mm": [286.3, 16.9, 318.7, 23.1], "w": 32.4, "h": 6.2, "from": "ring", "words": ["APP"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 37,
+  "lines": [
+   {"mm": [157.4, 238.1, 171.6, 245.1], "text": "4,720"},
+   {"mm": [323.4, 210.7, 342.2, 217.2], "text": "NOTES"},
+   {"mm": [323.4, 205.3, 347.2, 211.8], "text": "MATERIAL"},
+   {"mm": [351.5, 205.3, 400.1, 212.0], "text": "060 RED PLEXIGLASS"},
+   {"mm": [317.6, 200.8, 383.0, 206.3], "text": "2) TOLERANCES XXX 005"},
+   {"mm": [318.7, 195.4, 408.9, 200.9], "text": "3) REMOVE ALL BURRS AND SHARP EDGES"},
+   {"mm": [323.6, 190.0, 349.5, 195.3], "text": "SILKSCREEN"},
+   {"mm": [351.1, 190.6, 385.6, 196.2], "text": "MATTE SILE T0"},
+   {"mm": [77.9, 187.8, 90.5, 193.4], "text": "2.320"},
+   {"mm": [338.3, 184.4, 418.8, 191.8], "text": "03-00b/1 AND OTHER SIbE (SHINY)"},
+   {"mm": [324.7, 185.2, 336.6, 190.8], "text": "B524"},
+   {"mm": [325.1, 179.8, 356.0, 185.1], "text": "TO AfW B524 -"},
+   {"mm": [358.0, 179.0, 381.7, 185.5], "text": "03-006/2"},
+   {"mm": [245.9, 172.3, 265.3, 177.1], "text": "060 TYP"},
+   {"mm": [174.4, 121.8, 201.4, 128.2], "text": "MATTE SIDE"},
+   {"mm": [245.3, 119.8, 254.5, 125.3], "text": "035"},
+   {"mm": [319.7, 62.2, 345.2, 67.0], "text": "ISSUE DATE"},
+   {"mm": [369.4, 62.6, 388.8, 66.9], "text": "REVISION"},
+   {"mm": [414.3, 62.6, 422.9, 66.9], "text": "APP"},
+   {"mm": [295.4, 47.7, 419.7, 55.9], "text": "WBS WAAD-BECK SYSTEMS"},
+   {"mm": [287.4, 37.8, 297.1, 42.1], "text": "DRN:"},
+   {"mm": [299.2, 37.4, 316.5, 42.9], "text": "Tr 1/84"},
+   {"mm": [286.9, 30.9, 307.4, 36.4], "text": "ENG TR"},
+   {"mm": [353.0, 30.4, 373.1, 39.1], "text": "M524"},
+   {"mm": [286.9, 24.4, 297.7, 29.2], "text": "CKD:"},
+   {"mm": [329.9, 20.3, 412.4, 29.2], "text": "UPPER DISPLAY SCREEN"},
+   {"mm": [286.9, 17.3, 296.0, 22.8], "text": "APP"},
+   {"mm": [294.9, 11.2, 309.0, 16.7], "text": "SCALE"},
+   {"mm": [405.0, 11.2, 418.0, 16.7], "text": "ISSUE"},
+   {"mm": [342.2, 4.5, 384.7, 12.7], "text": "524-03-005"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [278.3, 5.2, 431.5, 73.1],
+  "from": "title-block words (training set)",
+  "text": [
+   "ISSUE DATE",
+   "REVISION",
+   "APP",
+   "WBS WAAD-BECK SYSTEMS",
+   "DRN:",
+   "Tr 1/84",
+   "ENG TR",
+   "M524",
+   "CKD:",
+   "UPPER DISPLAY SCREEN",
+   "APP",
+   "SCALE",
+   "ISSUE",
+   "524-03-005"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical B 524-03-005, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–431 mm across, 11–298 mm up",
+  "- **Outlines:** line 87 rings, 2,052 straight (7,009 mm) / 214 curved (324 mm); text 292 rings, 2,480 straight (2,976 mm) / 748 curved (1,151 mm); tb 7 rings, 114 straight (216 mm) / 9 curved (13.5 mm)",
+  "- **Centre lines:** 2,819 paths (45 closed); straight 5,905 mm, curved 12.8 mm; horizontal 2,885 mm, vertical 1,418 mm, diagonal 1,602 mm",
+  "- **Circles and arcs:** 0 circles, 2 arcs",
+  "- **Closed boxes:** 11 (10 in the title block)",
+  "- **Words (OCR):** 37 in 30 lines: 4,720 · NOTES · MATERIAL · 060 RED PLEXIGLASS · 2) TOLERANCES XXX 005 · 3) REMOVE ALL BURRS AND SHARP EDGES · SILKSCREEN · MATTE SILE T0 · 2.320 · 03-00b/1 AND OTHER SIbE (SHINY) · B524 · TO AfW B524 -",
+  "- **Title block:** (278, 5)–(432, 73) mm: ISSUE DATE · REVISION · APP · WBS WAAD-BECK SYSTEMS · DRN: · Tr 1/84 · ENG TR · M524 · CKD: · UPPER DISPLAY SCREEN · APP · SCALE · ISSUE · 524-03-005"
+ ]
+}

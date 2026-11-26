@@ -1,0 +1,55 @@
+{
+ "drawing": "Modules/COMPUTERS/M524/SCHEMATICS/1986 - M524 - Schematics.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/93fee59c31f662f7-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1295],
+  "mm": [431.8, 279.6],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "8"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.9, 10.8, 418.0, 233.0],
+ "outlines": {
+  "line": {"rings": 1030, "straight": {"n": 9141, "mm": 18685.7}, "curved": {"n": 1482, "mm": 1704.4}},
+  "text": {"rings": 145, "straight": {"n": 1014, "mm": 970.8}, "curved": {"n": 270, "mm": 345.2}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [67.4, 128.2, 122.4, 226.7], "w": 55.1, "h": 98.5, "from": "ring", "words": ["44147090", "PRcGraMMER Logic"]},
+  {"mm": [253.6, 126.5, 302.0, 224.3], "w": 48.4, "h": 97.8, "from": "ring"},
+  {"mm": [153.9, 142.9, 161.5, 145.7], "w": 7.6, "h": 2.8, "from": "ring"},
+  {"mm": [161.7, 142.9, 169.0, 145.5], "w": 7.3, "h": 2.6, "from": "ring"},
+  {"mm": [66.0, 50.5, 148.7, 84.4], "w": 82.7, "h": 33.9, "from": "ring"},
+  {"mm": [216.3, 48.8, 315.6, 82.9], "w": 99.3, "h": 34.1, "from": "ring"}
+ ],
+ "text": {
+  "words": 9,
+  "lines": [
+   {"mm": [87.9, 182.0, 99.7, 184.2], "text": "44147090"},
+   {"mm": [81.2, 178.3, 104.9, 181.7], "text": "PRcGraMMER Logic"},
+   {"mm": [344.1, 37.6, 417.6, 41.9], "text": "WES WARD-BECX SYSTEMS"},
+   {"mm": [373.3, 27.9, 386.2, 32.6], "text": "M524"},
+   {"mm": [355.4, 22.9, 406.8, 27.7], "text": "PROGRAMMER MODULE"},
+   {"mm": [367.9, 17.5, 393.8, 22.3], "text": "SCHEMATIC"},
+   {"mm": [342.0, 9.9, 374.8, 14.2], "text": "B524-02-00 1"},
+   {"mm": [405.5, 9.9, 415.2, 15.2], "text": "ISS."}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 432 × 280 mm, 2000 × 1295 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–418 mm across, 11–233 mm up",
+  "- **Outlines:** line 1,030 rings, 9,141 straight (18,686 mm) / 1,482 curved (1,704 mm); text 145 rings, 1,014 straight (971 mm) / 270 curved (345 mm)",
+  "- **Closed boxes:** 6; named: 44147090 PRcGraMMER Logic",
+  "- **Words (OCR):** 9 in 8 lines: 44147090 · PRcGraMMER Logic · WES WARD-BECX SYSTEMS · M524 · PROGRAMMER MODULE · SCHEMATIC · B524-02-00 1 · ISS."
+ ]
+}

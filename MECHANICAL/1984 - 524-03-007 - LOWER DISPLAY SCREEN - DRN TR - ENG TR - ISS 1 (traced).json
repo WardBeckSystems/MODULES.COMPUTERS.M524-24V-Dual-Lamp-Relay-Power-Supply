@@ -1,0 +1,114 @@
+{
+ "drawing": "Modules/COMPUTERS/M524/MECHANICAL/1984 - 524-03-007 - LOWER DISPLAY SCREEN - DRN TR - ENG TR - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/b3e7ecba395ea58d.svg",
+ "sheet": {
+  "number": "B 524-03-007",
+  "title": "M524 / LOWER DISPLAY SCREEN",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 11.0, 429.5, 298.2],
+ "outlines": {
+  "line": {"rings": 64, "straight": {"n": 1961, "mm": 6166.7}, "curved": {"n": 131, "mm": 188.9}},
+  "text": {"rings": 310, "straight": {"n": 2502, "mm": 3128.8}, "curved": {"n": 773, "mm": 1143.0}},
+  "tb": {"rings": 7, "straight": {"n": 108, "mm": 225.0}, "curved": {"n": 11, "mm": 18.7}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 258, "straight": {"n": 302, "mm": 2308.8}, "curved": {"n": 0, "mm": 0.0}},
+   "text": {"paths": 2195, "straight": {"n": 2906, "mm": 2247.7}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 191, "straight": {"n": 221, "mm": 944.4}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 43,
+  "orientation": {"horizontal": {"n": 811, "mm": 2514.1}, "vertical": {"n": 842, "mm": 1388.3}, "diagonal": {"n": 1776, "mm": 1598.4}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [117.9, 139.9, 188.7, 182.2], "w": 70.8, "h": 42.3, "from": "ring"},
+  {"mm": [410.9, 62.6, 423.4, 68.7], "w": 12.5, "h": 6.0, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [331.6, 61.5, 344.1, 67.4], "w": 12.5, "h": 5.8, "from": "ring", "in_title_block": true},
+  {"mm": [318.2, 61.3, 331.0, 67.1], "w": 12.7, "h": 5.8, "from": "ring", "in_title_block": true},
+  {"mm": [318.7, 16.4, 424.0, 43.6], "w": 105.4, "h": 27.2, "from": "ring", "words": ["M524", "LOWER DISPLAY SCREEN"], "in_title_block": true},
+  {"mm": [285.6, 35.8, 318.0, 41.9], "w": 32.4, "h": 6.0, "from": "ring", "words": ["TR", "V84", "DRN:"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 35,
+  "lines": [
+   {"mm": [296.9, 217.8, 315.2, 224.3], "text": "NOTES"},
+   {"mm": [297.1, 213.3, 319.7, 218.1], "text": "MATERIAL"},
+   {"mm": [324.3, 212.9, 372.0, 219.6], "text": "060 RED PLEXIGLASS"},
+   {"mm": [296.6, 207.9, 325.8, 213.4], "text": "TOLERANCES"},
+   {"mm": [332.1, 207.5, 359.7, 214.0], "text": "XXX 005"},
+   {"mm": [144.9, 201.7, 159.1, 208.6], "text": "2.820"},
+   {"mm": [297.5, 202.1, 382.8, 209.8], "text": "REMOVE ALL BURRS AND SHARP EDGES"},
+   {"mm": [370.5, 197.8, 407.4, 206.2], "text": "8524-03-oo8/"},
+   {"mm": [297.5, 196.7, 325.6, 203.2], "text": "SILKSCREEN"},
+   {"mm": [297.5, 191.9, 403.7, 199.6], "text": "AND OTHER SILE (SHINY) To AW 8524-03-o8/2'"},
+   {"mm": [327.3, 198.2, 370.5, 203.7], "text": "MATTE SIDE TO Alw"},
+   {"mm": [89.6, 156.7, 101.5, 163.2], "text": "1.720"},
+   {"mm": [206.2, 150.9, 227.1, 157.4], "text": "060 TYP"},
+   {"mm": [153.7, 113.1, 180.3, 119.6], "text": "MATTE SIDE"},
+   {"mm": [207.0, 112.3, 216.1, 117.8], "text": "035"},
+   {"mm": [318.7, 61.5, 343.5, 66.3], "text": "ISSUE DATE"},
+   {"mm": [367.9, 62.6, 387.8, 68.1], "text": "REVISION"},
+   {"mm": [413.2, 63.3, 421.9, 67.6], "text": "APP"},
+   {"mm": [293.8, 46.6, 380.8, 55.3], "text": "WBS WARD-BECK"},
+   {"mm": [382.6, 49.4, 418.8, 55.9], "text": "SYSTEMS"},
+   {"mm": [286.3, 36.3, 296.6, 41.1], "text": "DRN:"},
+   {"mm": [298.8, 36.7, 316.5, 41.5], "text": "TR V84"},
+   {"mm": [353.0, 30.4, 372.4, 39.1], "text": "M524"},
+   {"mm": [285.9, 29.8, 295.6, 34.6], "text": "ENG"},
+   {"mm": [298.2, 29.8, 306.4, 35.1], "text": "TR"},
+   {"mm": [286.3, 23.1, 296.6, 27.9], "text": "CKD."},
+   {"mm": [326.9, 19.4, 412.2, 29.7], "text": "LOWER DISPLAY SCREEN"},
+   {"mm": [286.9, 16.2, 296.0, 21.0], "text": "APP"},
+   {"mm": [294.9, 10.4, 309.0, 15.9], "text": "SCALE"},
+   {"mm": [404.6, 12.5, 418.0, 17.3], "text": "JSSUE"},
+   {"mm": [342.8, 4.5, 356.2, 12.7], "text": "524"},
+   {"mm": [358.8, 5.6, 371.3, 13.0], "text": "03 -"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [277.2, 4.2, 430.5, 74.1],
+  "from": "title-block words (training set)",
+  "text": [
+   "ISSUE DATE",
+   "REVISION",
+   "APP",
+   "WBS WARD-BECK",
+   "SYSTEMS",
+   "DRN:",
+   "TR V84",
+   "M524",
+   "ENG",
+   "TR",
+   "CKD.",
+   "LOWER DISPLAY SCREEN",
+   "APP",
+   "SCALE",
+   "JSSUE",
+   "524",
+   "03 -"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical B 524-03-007, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–430 mm across, 11–298 mm up",
+  "- **Outlines:** line 64 rings, 1,961 straight (6,167 mm) / 131 curved (189 mm); text 310 rings, 2,502 straight (3,129 mm) / 773 curved (1,143 mm); tb 7 rings, 108 straight (225 mm) / 11 curved (18.7 mm)",
+  "- **Centre lines:** 2,644 paths (43 closed); straight 5,501 mm, curved 0.0 mm; horizontal 2,514 mm, vertical 1,388 mm, diagonal 1,598 mm",
+  "- **Closed boxes:** 6 (5 in the title block)",
+  "- **Words (OCR):** 35 in 32 lines: NOTES · MATERIAL · 060 RED PLEXIGLASS · TOLERANCES · XXX 005 · 2.820 · REMOVE ALL BURRS AND SHARP EDGES · 8524-03-oo8/ · SILKSCREEN · AND OTHER SILE (SHINY) To AW 8524-03-o8/2' · MATTE SIDE TO Alw · 1.720",
+  "- **Title block:** (277, 4)–(430, 74) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK · SYSTEMS · DRN: · TR V84 · M524 · ENG · TR · CKD. · LOWER DISPLAY SCREEN · APP · SCALE · JSSUE · 524 · 03 -"
+ ]
+}

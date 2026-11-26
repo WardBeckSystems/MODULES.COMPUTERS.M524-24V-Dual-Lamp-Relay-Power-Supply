@@ -1,0 +1,74 @@
+{
+ "drawing": "Modules/COMPUTERS/M524/MANUALS/1986 - M524 - manual.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/98f8f15c963daafa-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "20"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [2.2, 1.7, 330.7, 431.8],
+ "outlines": {
+  "line": {"rings": 145, "straight": {"n": 1633, "mm": 3540.9}, "curved": {"n": 134, "mm": 196.6}},
+  "text": {"rings": 240, "straight": {"n": 2258, "mm": 2977.0}, "curved": {"n": 546, "mm": 889.8}},
+  "tb": {"rings": 2, "straight": {"n": 9, "mm": 12.5}, "curved": {"n": 0, "mm": 0.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 24,
+  "lines": [
+   {"mm": [113.8, 404.2, 187.8, 412.8], "text": "WARD-BECk"},
+   {"mm": [190.9, 403.7, 273.5, 413.2], "text": "SYSTEMS LTD_"},
+   {"mm": [46.4, 395.5, 271.2, 409.7], "text": "WSS 841 PAOGPESS AVENUE, SCAABOFOUGH, ONTARIO M1A 2x4"},
+   {"mm": [113.1, 393.2, 163.9, 399.1], "text": "TELEX O6S- 25399"},
+   {"mm": [198.8, 393.2, 230.6, 398.0], "text": "TELEPHONE:"},
+   {"mm": [233.0, 393.2, 270.7, 398.4], "text": "4161438-655C"},
+   {"mm": [139.5, 238.8, 182.2, 252.9], "text": "M524"},
+   {"mm": [110.5, 222.4, 171.4, 230.5], "text": "PROGRAMMER"},
+   {"mm": [174.7, 222.6, 210.9, 230.7], "text": "MODULE"},
+   {"mm": [109.9, 208.3, 209.9, 217.9], "text": "FOR ACESS ALBERTA"},
+   {"mm": [139.7, 192.4, 182.0, 202.0], "text": "#840102"},
+   {"mm": [218.5, 49.7, 264.9, 56.3], "text": "MANUAL ISSUE"},
+   {"mm": [218.1, 37.8, 262.8, 44.3], "text": "NOVEMBER 21 _"},
+   {"mm": [268.1, 38.4, 282.2, 44.9], "text": "1986"}
+  ]
+ },
+ "title_block": {
+  "mm": [107.2, 41.0, 271.7, 421.8],
+  "from": "title-block words (training set)",
+  "text": [
+   "WARD-BECk",
+   "SYSTEMS LTD_",
+   "WSS 841 PAOGPESS AVENUE, SCAABOFOUGH, ONTARIO M1A 2x4",
+   "TELEX O6S- 25399",
+   "TELEPHONE:",
+   "4161438-655C",
+   "M524",
+   "PROGRAMMER",
+   "MODULE",
+   "FOR ACESS ALBERTA",
+   "#840102",
+   "MANUAL ISSUE",
+   "NOVEMBER 21 _"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–331 mm across, 2–432 mm up",
+  "- **Outlines:** line 145 rings, 1,633 straight (3,541 mm) / 134 curved (197 mm); text 240 rings, 2,258 straight (2,977 mm) / 546 curved (890 mm); tb 2 rings, 9 straight (12.5 mm) / 0 curved (0.0 mm)",
+  "- **Words (OCR):** 24 in 14 lines: WARD-BECk · SYSTEMS LTD_ · WSS 841 PAOGPESS AVENUE, SCAABOFOUGH, ONTARIO M1A 2x4 · TELEX O6S- 25399 · TELEPHONE: · 4161438-655C · M524 · PROGRAMMER · MODULE · FOR ACESS ALBERTA · #840102 · MANUAL ISSUE",
+  "- **Title block:** (107, 41)–(272, 422) mm: WARD-BECk · SYSTEMS LTD_ · WSS 841 PAOGPESS AVENUE, SCAABOFOUGH, ONTARIO M1A 2x4 · TELEX O6S- 25399 · TELEPHONE: · 4161438-655C · M524 · PROGRAMMER · MODULE · FOR ACESS ALBERTA · #840102 · MANUAL ISSU"
+ ]
+}

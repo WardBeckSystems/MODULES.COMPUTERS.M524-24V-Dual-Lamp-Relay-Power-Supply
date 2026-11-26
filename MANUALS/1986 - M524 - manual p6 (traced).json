@@ -1,0 +1,31 @@
+{
+ "drawing": "Modules/COMPUTERS/M524/MANUALS/1986 - M524 - manual.pdf",
+ "page": 6,
+ "version": 1,
+ "trace": "_traces/98f8f15c963daafa-p6.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "6", "pages": "20"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [321.7, 0.6, 332.7, 431.2],
+ "outlines": {"line": {"rings": 72, "straight": {"n": 328, "mm": 580.7}, "curved": {"n": 12, "mm": 15.5}}},
+ "circles": [],
+ "boxes": [],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 322–333 mm across, 1–431 mm up",
+  "- **Outlines:** line 72 rings, 328 straight (581 mm) / 12 curved (15.5 mm)"
+ ]
+}

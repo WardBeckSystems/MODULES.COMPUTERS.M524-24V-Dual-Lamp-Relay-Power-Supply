@@ -1,0 +1,133 @@
+{
+ "drawing": "Modules/COMPUTERS/M524/MECHANICAL/19xx - M524 - DOC - 524-03-012 - REMOVE ALL BURRS AND SHARP EDGES.jpg",
+ "version": 1,
+ "trace": "_traces/ccb272739e904c33.svg",
+ "sheet": {
+  "number": "524-03-012",
+  "title": "",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 10.6, 431.7, 298.2],
+ "outlines": {
+  "line": {"rings": 115, "straight": {"n": 2362, "mm": 7335.8}, "curved": {"n": 260, "mm": 476.7}},
+  "text": {"rings": 311, "straight": {"n": 2294, "mm": 2759.5}, "curved": {"n": 749, "mm": 1127.0}},
+  "tb": {"rings": 8, "straight": {"n": 114, "mm": 235.4}, "curved": {"n": 6, "mm": 7.9}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 848, "straight": {"n": 905, "mm": 2977.6}, "curved": {"n": 53, "mm": 116.4}},
+   "text": {"paths": 2000, "straight": {"n": 2663, "mm": 2046.9}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 254, "straight": {"n": 286, "mm": 945.2}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 41,
+  "orientation": {"horizontal": {"n": 927, "mm": 2616.3}, "vertical": {"n": 994, "mm": 1641.0}, "diagonal": {"n": 1933, "mm": 1712.4}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [128.5, 207.0], "r": 12.7, "kind": "circle", "span": 272, "from": ["centre line"]},
+  {"c": [312.4, 212.9], "r": 4.1, "kind": "arc", "span": 88, "from": ["centre line"], "start": 62},
+  {"c": [128.5, 99.8], "r": 3.7, "kind": "arc", "span": 93, "from": ["centre line"], "start": 273},
+  {"c": [128.4, 125.5], "r": 3.6, "kind": "arc", "span": 186, "from": ["centre line"], "start": 275},
+  {"c": [129.3, 125.5], "r": 3.5, "kind": "arc", "span": 96, "from": ["centre line"], "start": 3},
+  {"c": [313.4, 197.8], "r": 3.2, "kind": "arc", "span": 93, "from": ["centre line"], "start": 60},
+  {"c": [128.7, 126.0], "r": 2.7, "kind": "arc", "span": 86, "from": ["centre line"], "start": 178},
+  {"c": [129.2, 99.7], "r": 2.5, "kind": "arc", "span": 94, "from": ["centre line"], "start": 2},
+  {"c": [129.2, 125.4], "r": 2.3, "kind": "arc", "span": 100, "from": ["centre line"], "start": 7},
+  {"c": [129.2, 126.4], "r": 2.3, "kind": "arc", "span": 102, "from": ["centre line"], "start": 93},
+  {"c": [128.2, 125.4], "r": 2.2, "kind": "arc", "span": 108, "from": ["centre line"], "start": 282}
+ ],
+ "boxes": [
+  {"mm": [109.5, 80.3, 148.5, 150.5], "w": 39.1, "h": 70.2, "from": "ring"},
+  {"mm": [347.2, 62.4, 412.6, 68.7], "w": 65.4, "h": 6.3, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [413.2, 62.8, 425.8, 68.7], "w": 12.5, "h": 5.8, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [333.8, 62.4, 346.3, 68.3], "w": 12.5, "h": 5.9, "from": "ring", "in_title_block": true},
+  {"mm": [320.4, 62.4, 333.1, 68.0], "w": 12.7, "h": 5.6, "from": "ring", "words": ["ISSUE DATE"], "in_title_block": true},
+  {"mm": [287.3, 43.8, 425.8, 61.7], "w": 138.4, "h": 17.9, "from": "ring", "words": ["WARD-BECK", "WBS", "sysTEMs"], "in_title_block": true},
+  {"mm": [320.6, 17.4, 425.8, 43.8], "w": 105.2, "h": 26.4, "from": "ring", "words": ["M524", "SwITCH", "MTG. BRKT;"], "in_title_block": true},
+  {"mm": [287.6, 30.3, 320.0, 36.5], "w": 32.4, "h": 6.2, "from": "ring", "words": ["ENG_", "TR:"], "in_title_block": true},
+  {"mm": [287.6, 17.1, 320.0, 23.3], "w": 32.4, "h": 6.2, "from": "ring", "words": ["APP"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 42,
+  "lines": [
+   {"mm": [170.8, 225.6, 190.2, 231.1], "text": "500 DIA _"},
+   {"mm": [317.2, 215.9, 335.9, 221.4], "text": "NOTES:"},
+   {"mm": [345.4, 210.7, 386.5, 217.2], "text": "040 ALUM; ALLOY"},
+   {"mm": [317.6, 211.2, 340.3, 216.7], "text": "MATERIAL"},
+   {"mm": [313.3, 205.8, 378.7, 211.3], "text": "2) TOLERANCES XXX 005"},
+   {"mm": [70.0, 201.9, 79.7, 207.1], "text": "700"},
+   {"mm": [313.1, 199.5, 403.3, 206.4], "text": "3) REMOVE ALL BURRS AND SHARP EDGES"},
+   {"mm": [83.3, 194.3, 93.1, 199.8], "text": "385"},
+   {"mm": [318.7, 195.4, 333.8, 200.2], "text": "FINISH"},
+   {"mm": [338.7, 195.4, 373.7, 200.9], "text": "CLEAR ALODINE"},
+   {"mm": [179.4, 168.4, 222.2, 173.9], "text": "Ioo DIA, CSK 828"},
+   {"mm": [179.4, 163.0, 207.5, 168.5], "text": "To .150 DIA:"},
+   {"mm": [213.3, 162.8, 237.1, 169.3], "text": "2 PLACES"},
+   {"mm": [55.1, 109.9, 68.7, 116.4], "text": "L.250"},
+   {"mm": [71.5, 100.0, 81.2, 105.5], "text": "875"},
+   {"mm": [84.0, 87.0, 93.7, 92.5], "text": "375"},
+   {"mm": [334.6, 69.1, 384.1, 75.8], "text": "4/84 '700 WAS . 750"},
+   {"mm": [320.4, 62.6, 345.7, 68.1], "text": "ISSUE DATE"},
+   {"mm": [370.1, 63.3, 389.9, 68.1], "text": "REVISION"},
+   {"mm": [415.4, 63.3, 424.0, 67.6], "text": "APP"},
+   {"mm": [114.2, 56.8, 125.0, 62.3], "text": "3375"},
+   {"mm": [295.8, 47.7, 328.6, 55.9], "text": "WBS"},
+   {"mm": [337.2, 49.4, 420.8, 55.9], "text": "WARD-BECK sysTEMs"},
+   {"mm": [124.4, 42.7, 135.2, 48.3], "text": "700"},
+   {"mm": [288.4, 37.8, 298.2, 42.1], "text": "DRN:"},
+   {"mm": [302.0, 37.8, 319.3, 43.3], "text": "TR; /84"},
+   {"mm": [288.0, 30.9, 310.7, 36.4], "text": "ENG_ TR:"},
+   {"mm": [358.0, 30.4, 377.8, 39.1], "text": "M524"},
+   {"mm": [288.0, 24.4, 298.2, 29.9], "text": "CKD:"},
+   {"mm": [337.2, 20.3, 406.3, 28.9], "text": "SwITCH MTG. BRKT;"},
+   {"mm": [288.4, 17.9, 297.7, 22.2], "text": "APP"},
+   {"mm": [297.1, 11.9, 310.7, 16.2], "text": "SCALE"},
+   {"mm": [406.8, 12.5, 419.7, 17.3], "text": "ISSUE"},
+   {"mm": [297.5, 4.1, 308.3, 12.3], "text": "2X"},
+   {"mm": [344.4, 5.6, 385.4, 13.8], "text": "524-03-012"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [279.3, 5.8, 431.8, 74.1],
+  "from": "title-block words (training set)",
+  "text": [
+   "4/84 '700 WAS . 750",
+   "ISSUE DATE",
+   "REVISION",
+   "APP",
+   "WBS",
+   "WARD-BECK sysTEMs",
+   "DRN:",
+   "TR; /84",
+   "ENG_ TR:",
+   "M524",
+   "CKD:",
+   "SwITCH MTG. BRKT;",
+   "APP",
+   "SCALE",
+   "ISSUE",
+   "2X",
+   "524-03-012"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical 524-03-012, size B (assumed) 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–432 mm across, 11–298 mm up",
+  "- **Outlines:** line 115 rings, 2,362 straight (7,336 mm) / 260 curved (477 mm); text 311 rings, 2,294 straight (2,760 mm) / 749 curved (1,127 mm); tb 8 rings, 114 straight (235 mm) / 6 curved (7.9 mm)",
+  "- **Centre lines:** 3,102 paths (41 closed); straight 5,970 mm, curved 116 mm; horizontal 2,616 mm, vertical 1,641 mm, diagonal 1,712 mm",
+  "- **Circles and arcs:** 1 circles, 10 arcs; largest r 12.7 @ (128.5, 207.0)",
+  "- **Closed boxes:** 9 (8 in the title block)",
+  "- **Words (OCR):** 42 in 35 lines: 500 DIA _ · NOTES: · 040 ALUM; ALLOY · MATERIAL · 2) TOLERANCES XXX 005 · 700 · 3) REMOVE ALL BURRS AND SHARP EDGES · 385 · FINISH · CLEAR ALODINE · Ioo DIA, CSK 828 · To .150 DIA:",
+  "- **Title block:** (279, 6)–(432, 74) mm: 4/84 '700 WAS . 750 · ISSUE DATE · REVISION · APP · WBS · WARD-BECK sysTEMs · DRN: · TR; /84 · ENG_ TR: · M524 · CKD: · SwITCH MTG. BRKT; · APP · SCALE · ISSUE · 2X · 524-03-012"
+ ]
+}
