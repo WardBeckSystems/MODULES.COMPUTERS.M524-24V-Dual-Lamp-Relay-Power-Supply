@@ -24,6 +24,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Not on Google Drive yet: `1984 - 524-03-005 - UPPER DISPLAY SCREEN - DRN TR - ENG TR - ISS 1.jpg`, `1984 - 524-03-007 - LOWER DISPLAY SCREEN - DRN TR - ENG TR - ISS 1.jpg`, `1984 - 524-03-009 - PCB MOUNTING BAR - DRN TR - ENG TR - ISS 1.jpg`, `1984 - 524-03-011 - PCB SUPPORT BRKT - DRN TR - ENG TR - ISS 2.jpg`, `1986 - 524-03-103 - M524A Front Panel Display Screens - DRN MRW - ENG MRW - ISS 1.jpg`
 
+## 3-D model
+
+[`MECHANICAL/M524.stl`](MECHANICAL/M524.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M524)
+
+- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (assumed: 1.6" x 7" x 6.5", the common module)
+- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M524 - front panel.svg`)
+- no drawing of the front panel: the panel is blank
+- Made by `tools/module_models.py` (→ `MECHANICAL/M524.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
