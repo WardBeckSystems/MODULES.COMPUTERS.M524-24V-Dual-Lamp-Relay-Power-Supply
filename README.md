@@ -45,7 +45,7 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
-- [1986 - M524 - Schematics p5.kicad_sch](KICAD/1986%20-%20M524%20-%20Schematics%20p5.kicad_sch)
+- [1986 - M524 - [DWG 14-091-02-001] - Schematics p5.kicad_sch](KICAD/1986%20-%20M524%20-%20%5BDWG%2014-091-02-001%5D%20-%20Schematics%20p5.kicad_sch)
 - [M524.kicad_sym](KICAD/M524.kicad_sym)
 - [index.html](KICAD/index.html)
 
