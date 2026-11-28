@@ -1,5 +1,5 @@
 # 1986 - 524-03-103 - M524A Front Panel Display Screens - DRN MRW - ENG MRW - ISS 1.jpg
-Wiki page: [M524](../../../../PAGES/M524.md)
+Wiki page: [M524](../)
 
 
 - **Year:** 1986 (title block date)

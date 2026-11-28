@@ -1,5 +1,5 @@
 # 1984 - 524-03-011 - PCB SUPPORT BRKT - DRN TR - ENG TR - ISS 2.jpg
-Wiki page: [M524](../../../../PAGES/M524.md)
+Wiki page: [M524](../)
 
 
 - **Year:** 1984 (title block date)

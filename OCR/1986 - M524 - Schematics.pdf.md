@@ -1,5 +1,5 @@
 # 1986 - M524 - Schematics.pdf
-Wiki page: [M524](../../../../PAGES/M524.md)
+Wiki page: [M524](../)
 
 
 - **Year:** 1986 (module estimate (manual_issue))
