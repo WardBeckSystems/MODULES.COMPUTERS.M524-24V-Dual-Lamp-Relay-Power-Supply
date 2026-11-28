@@ -49,9 +49,5 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [M524.kicad_sym](KICAD/M524.kicad_sym)
 - [index.html](KICAD/index.html)
 
-## Software
-
-- [index.html](SOFTWARE/index.html)
-
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
